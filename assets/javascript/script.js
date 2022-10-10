@@ -19,7 +19,7 @@ function pause(){
     clearInterval(interval)
     
 }
-function stop(){
+function clean(){
     clearInterval(interval)
     second = 0;
     minute = 0;
